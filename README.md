@@ -8,7 +8,7 @@ I am a Cybersecurity student
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ethanpmanoj@gmail.com](mailto:ethanpmanoj@gmail.com)
-* 🧠  I'm currently learning Web application pentesting
+* 🧠  I'm currently learning Python automation
 * 👥  I'm looking to collaborate on interesting projects
 
 <p align="left">
